@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uqkwTMaRv+I=",
+  "success": true,
+  "projectFilePath": "D:\\My projects\\Interface Segregation Principle\\Interface Segregation Principle\\Interface Segregation Principle\\Interface Segregation Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pcchukka\\.nuget\\packages\\jetbrains.annotations\\2024.3.0\\jetbrains.annotations.2024.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

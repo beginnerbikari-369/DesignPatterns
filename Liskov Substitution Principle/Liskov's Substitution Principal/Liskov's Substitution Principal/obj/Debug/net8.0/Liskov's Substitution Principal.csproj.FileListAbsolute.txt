@@ -1,0 +1,14 @@
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\bin\Debug\net8.0\Liskov's Substitution Principal.exe
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\bin\Debug\net8.0\Liskov's Substitution Principal.deps.json
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\bin\Debug\net8.0\Liskov's Substitution Principal.runtimeconfig.json
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\bin\Debug\net8.0\Liskov's Substitution Principal.dll
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\bin\Debug\net8.0\Liskov's Substitution Principal.pdb
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\obj\Debug\net8.0\Liskov's Substitution Principal.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\obj\Debug\net8.0\Liskov's Substitution Principal.AssemblyInfoInputs.cache
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\obj\Debug\net8.0\Liskov's Substitution Principal.AssemblyInfo.cs
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\obj\Debug\net8.0\Liskov's Substitution Principal.csproj.CoreCompileInputs.cache
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\obj\Debug\net8.0\Liskov's Substitution Principal.dll
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\obj\Debug\net8.0\refint\Liskov's Substitution Principal.dll
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\obj\Debug\net8.0\Liskov's Substitution Principal.pdb
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\obj\Debug\net8.0\Liskov's Substitution Principal.genruntimeconfig.cache
+D:\My projects\Liskov Substitution Principle\Liskov's Substitution Principal\Liskov's Substitution Principal\obj\Debug\net8.0\ref\Liskov's Substitution Principal.dll

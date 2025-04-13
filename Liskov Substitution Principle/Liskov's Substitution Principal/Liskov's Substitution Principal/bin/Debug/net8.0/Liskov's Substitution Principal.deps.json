@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Liskov's Substitution Principal/1.0.0": {
+        "runtime": {
+          "Liskov's Substitution Principal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Liskov's Substitution Principal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
